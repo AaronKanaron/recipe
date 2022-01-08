@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Arrow can pierce through multiple entities.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

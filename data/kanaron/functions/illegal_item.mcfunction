@@ -1,0 +1,1 @@
+clear @s wooden_hoe{CustomModelData:1}

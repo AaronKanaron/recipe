@@ -1,0 +1,16 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{cuttingTable:1b,EntityTag:{id:'minecraft:armor_stand',NoGravity:1b,Invisible:1b,Invulnerable:1b,Marker:1b,Tags:['cuttingTable','notplaced'],Rotation:[0F,0F],ArmorItems:[{},{},{},{id:'minecraft:polar_bear_spawn_egg',Count:1b}]}}"
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": [
+        {
+			"text": "Cutting Table",
+			"color": "white",
+			"italic": false
+         }
+    ]
+  }
+]

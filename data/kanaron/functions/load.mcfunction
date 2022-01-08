@@ -1,0 +1,5 @@
+tellraw @a ["",{"text":"=-----------------------------------=","color":"gold"},{"text":"\n\nHello! Welcome to the "},{"text":"Kanaron ","color":"red"},{"text":"Pack!\nI've converted a couple of mods into a full wedged datapack!\nIf you'd like to support me, "},{"text":"here's my You","clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCjfycqFCR0T1yc3X6xm5wQQ"}},{"text":"Tube","color":"red","clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCjfycqFCR0T1yc3X6xm5wQQ"}},{"text":"\n\n"},{"text":"Mods - Credit:","color":"aqua"},{"text":"\n"},{"text":"Enchantment Descriptions","color":"gray","clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions"}},{"text":"\n\n"},{"text":"=-----------------------------------=","color":"gold"}]
+
+#Scoreboards
+scoreboard objectives add cuttingTableSuccess dummy
+scoreboard objectives add dev dummy

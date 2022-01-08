@@ -1,0 +1,16 @@
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Speeds up how fast you can mine blocks underwater.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

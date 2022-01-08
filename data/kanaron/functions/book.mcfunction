@@ -1,0 +1,1 @@
+give @p written_book{pages:['["",{"text":"Hey "},{"selector":"@s"},{"text":"! This is Kanaron Datapack!\\n\\n\\n"},{"text":"Developer Mode","clickEvent":{"action":"run_command","value":"/trigger dev"},"hoverEvent":{"action":"show_text","contents":"Puts you in developer mode - not intended for users"}}]'],title:"Kanaron Pack",author:AaronKanaron}

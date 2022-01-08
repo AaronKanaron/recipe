@@ -1,0 +1,27 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Freezes water into ice so that you can walk on it",
+                "color": "dark_gray",
+				"italic": false
+            },
+			{
+                "text": "also allows you to walk on magma",
+                "color": "dark_gray",
+				"italic": false
+            },
+			{
+                "text": "blocks without taking damage.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

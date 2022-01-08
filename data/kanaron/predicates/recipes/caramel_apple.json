@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "block": {
+      "blocks": [
+        "minecraft:barrel"
+      ],
+      "nbt": "{Items:[{Slot:1b,id:'minecraft:sugar'},{Slot:2b,id:'minecraft:sugar'},{Slot:3b,id:'minecraft:sugar'},{Slot:10b,id:'minecraft:sugar'},{Slot:11b,id:'minecraft:apple'},{Slot:12b,id:'minecraft:sugar'},{Slot:19b,id:'minecraft:sugar'},{Slot:20b,id:'minecraft:sugar'},{Slot:21b,id:'minecraft:sugar'},]}"
+    }
+  }
+}

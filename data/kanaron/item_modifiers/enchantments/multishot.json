@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Shoots 3 arrows at once but only 1 arrow is used.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

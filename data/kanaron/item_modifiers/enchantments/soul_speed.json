@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Speeds up how fast you can move across soul blocks",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

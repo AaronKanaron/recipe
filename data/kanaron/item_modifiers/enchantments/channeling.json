@@ -1,0 +1,26 @@
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Summons a lightning bolt at a targeted",
+                "color": "dark_gray",
+				"italic": false
+            },
+			{
+                "text": "mob when enchanted item is thrown",
+                "color": "dark_gray",
+				"italic": false
+            },
+			{
+                "text": "(targeted mob must be standing in raining)",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

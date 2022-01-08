@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Propels you forward when trident trown while in water or rain",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

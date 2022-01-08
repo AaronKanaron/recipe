@@ -1,0 +1,16 @@
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Cursed item can not be removed from player.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

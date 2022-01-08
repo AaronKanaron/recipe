@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Reduces damage caused by fire and lava.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]

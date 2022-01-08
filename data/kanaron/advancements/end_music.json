@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": {
+            "text": "Play Music"
+        },
+        "description": {
+            "text": "Description"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "isEnd": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "overworld",
+                "to": "the_end"
+            }
+        }
+    },
+    "rewards": {
+        "function": "kanaron:end_music"
+    }
+}

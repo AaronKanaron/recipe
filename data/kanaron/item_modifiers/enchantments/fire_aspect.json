@@ -1,0 +1,17 @@
+
+[
+    {
+        "function": "set_nbt",
+        "tag": "{Changed:1b}"
+    },
+    {
+        "function": "set_lore",
+        "lore": [
+            {
+                "text": "Sets target on fire.",
+                "color": "dark_gray",
+				"italic": false
+            }
+        ]
+    }
+]
